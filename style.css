@@ -1,0 +1,8 @@
+div{
+    display: block;
+    background-color:coral;
+    font-size: larger;
+    height: 100px;
+    margin: 20px;
+    outline: 3px black solid;
+}
